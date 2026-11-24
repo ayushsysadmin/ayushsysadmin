@@ -117,16 +117,7 @@ The best way to reach me is through the contact section of my portfolio:
 
 <div align="center">
 
-<div class="contact-grid">
-          <article class="contact-card">
-            <div class="contact-icon">📧</div>
-            <h3>Official Email</h3>
-            <p><a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=ayushpurohit1789@gmail.com" target="_blank" rel="noopener noreferrer">ayushpurohit1789@gmail.com</a></p>
-            <div class="contact-actions" style="margin-top:14px;">
-<a class="btn-secondary" href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=ayushpurohit1789@gmail.com" target="_blank" rel="noopener noreferrer">Send Email</a>
-            </div>
-          </article>
-<! <a href="https://ayushpurohit.netlify.app/#contact"><img alt="Contact me via my portfolio" src="https://img.shields.io/badge/Contact_me-via_my_portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>  >
+<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=ayushpurohit1789@gmail.com"><img alt="Contact me via my Email" src="https://img.shields.io/badge/Contact_me-via_my_portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" /></a> 
 
 </div>
 
