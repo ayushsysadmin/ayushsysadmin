@@ -2,23 +2,28 @@
   GitHub Profile README
   Repo name must be EXACTLY your username:  ayushsysadmin/ayushsysadmin
   (public repo) — GitHub shows this file on your profile page.
+  Only 3 images are used (Portfolio, Projects, Contact badges) and
+  all of them are links. Everything else is plain text, so nothing
+  else is clickable.
 ============================================================ -->
 
 <div align="center">
 
-<img width="100%" alt="Ayush Purohit — IT Infrastructure & Cloud Support Engineer" src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:ec4899&height=230&section=header&text=Ayush%20Purohit&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=IT%20Infrastructure%20%26%20Cloud%20Support%20Engineer&descAlignY=60&descSize=20" />
+<h1>👋 Hi, I'm Ayush Purohit</h1>
 
-<a href="https://github.com/ayushsysadmin">
-  <img alt="Typing intro" src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3200&pause=1000&color=8B5CF6&center=true&vCenter=true&width=720&height=45&lines=Building+secure%2C+stable+and+scalable+systems;Windows+Server+%26+Active+Directory;Linux+%7C+Networking+%7C+VMware;AWS+Cloud+Support+%26+Deployment" />
-</a>
+<h3>🖥️ IT Infrastructure &amp; Cloud Support Engineer ☁️</h3>
+
+<p><i>Building secure, stable, and scalable systems for real-world business environments.</i></p>
+
+<a href="https://ayushpurohit.netlify.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-ayushpurohit.netlify.app-8B5CF6?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+<a href="https://github.com/ayushsysadmin?tab=repositories"><img alt="Projects on GitHub" src="https://img.shields.io/badge/Projects-on_GitHub-EC4899?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+</div>
 
 <br/>
 
-<a href="https://ayushpurohit.netlify.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-ayushpurohit.netlify.app-8B5CF6?style=for-the-badge&logo=netlify&logoColor=white" /></a>
-<a href="https://github.com/ayushsysadmin?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/Projects-on_GitHub-EC4899?style=for-the-badge&logo=github&logoColor=white" /></a>
-<img alt="Open to work" src="https://img.shields.io/badge/Open_to-System_Admin_%26_Cloud_Roles-22C55E?style=for-the-badge" />
-
-</div>
+> [!TIP]
+> 🟢 **Open to opportunities in:** System Administration · Server Infrastructure · Cloud Support
 
 <br/>
 
@@ -30,7 +35,7 @@ I focus on building reliable, maintainable systems that keep real business opera
 - 🖥️ Day-to-day: system administration, network configuration and technical support
 - ☁️ Growing into: AWS cloud operations, containers and infrastructure automation
 - 🎯 Looking for: roles in **system administration, server infrastructure and cloud support**
-- 🌐 See my work, skills and projects in my **[portfolio website](https://ayushpurohit.netlify.app)**
+- 🌐 See my work, skills and projects on my **[portfolio website](https://ayushpurohit.netlify.app)**
 
 <br/>
 
@@ -83,20 +88,15 @@ I focus on building reliable, maintainable systems that keep real business opera
 
 ## ⚙️ Tech Stack
 
-<div align="center">
-
-<img alt="Tech stack" src="https://skillicons.dev/icons?i=windows,linux,ubuntu,aws,vmware,html,css,js,git,github,netlify&perline=11" />
-
-</div>
-
 | Area | Technologies | Level |
 | :-- | :-- | :-- |
-| 🪟 **Windows Server** | Active Directory · DNS · DHCP · Group Policy / OU · File Services | ![Advanced](https://img.shields.io/badge/Advanced-8B5CF6?style=flat-square) |
-| 🌐 **Networking** | LAN/WAN · TCP/IP · VLANs · Routing & Switching · Firewall · Wireless | ![Advanced](https://img.shields.io/badge/Advanced-8B5CF6?style=flat-square) |
-| 🛠️ **Hardware & Support** | PC diagnosis · OS setup · BIOS · Printers & peripherals | ![Advanced](https://img.shields.io/badge/Advanced-8B5CF6?style=flat-square) |
-| 🐧 **Linux** | Users & permissions · SSH · Services · Samba / NFS · Storage | ![Intermediate](https://img.shields.io/badge/Intermediate-EC4899?style=flat-square) |
-| ☁️ **AWS Cloud** | EC2 · S3 · IAM · VPC · Hosting & migration support | ![Intermediate](https://img.shields.io/badge/Intermediate-EC4899?style=flat-square) |
-| 🧠 **Virtualization** | VMware ESXi · VM lifecycle · Snapshots · Migration | ![Intermediate](https://img.shields.io/badge/Intermediate-EC4899?style=flat-square) |
+| 🪟 **Windows Server** | Active Directory · DNS · DHCP · Group Policy / OU · File Services | 🟣 **Advanced** |
+| 🌐 **Networking** | LAN/WAN · TCP/IP · VLANs · Routing & Switching · Firewall · Wireless | 🟣 **Advanced** |
+| 🛠️ **Hardware & Support** | PC diagnosis · OS setup · BIOS · Printers & peripherals | 🟣 **Advanced** |
+| 🐧 **Linux** | Users & permissions · SSH · Services · Samba / NFS · Storage | 🟠 **Intermediate** |
+| ☁️ **AWS Cloud** | EC2 · S3 · IAM · VPC · Hosting & migration support | 🟠 **Intermediate** |
+| 🧠 **Virtualization** | VMware ESXi · VM lifecycle · Snapshots · Migration | 🟠 **Intermediate** |
+| 🌍 **Web basics** | HTML · CSS · JavaScript · Git · GitHub · Netlify | 🟠 **Intermediate** |
 
 <br/>
 
@@ -104,11 +104,9 @@ I focus on building reliable, maintainable systems that keep real business opera
 
 <div align="center">
 
-![Advanced AWS](https://img.shields.io/badge/Advanced_AWS_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker_%26_Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Cloud Security](https://img.shields.io/badge/Cloud_Security-8B5CF6?style=for-the-badge&logo=letsencrypt&logoColor=white)
-![Automation](https://img.shields.io/badge/Infrastructure_Automation-EC4899?style=for-the-badge&logo=githubactions&logoColor=white)
-![Monitoring](https://img.shields.io/badge/Monitoring_%26_Logging-22C55E?style=for-the-badge&logo=grafana&logoColor=white)
+🟧 `Advanced AWS Services` &nbsp; 🐳 `Docker & Containers` &nbsp; 🔐 `Cloud Security`
+
+⚙️ `Infrastructure Automation` &nbsp; 📈 `Monitoring & Logging` &nbsp; 🏢 `Enterprise Support Practices`
 
 </div>
 
@@ -124,28 +122,10 @@ I focus on building reliable, maintainable systems that keep real business opera
 
 ## 🚀 Featured
 
-<table>
-  <tr>
-    <td valign="top">
-      <h3>🌐 Personal Portfolio Website</h3>
-      A fast, fully responsive portfolio with dark / light mode, project showcase slider and certificate preview —
-      built with <b>HTML, CSS and vanilla JavaScript</b> and deployed on Netlify.
-      <br/><br/>
-      <a href="https://ayushpurohit.netlify.app"><b>View live →</b></a>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ayushsysadmin&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16&include_all_commits=true" />
-<img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsysadmin&layout=compact&theme=tokyonight&hide_border=true&border_radius=16&langs_count=6" />
-
-</div>
+> ### 🌐 Personal Portfolio Website
+> A fast, fully responsive portfolio with dark / light mode, project showcase slider and certificate preview — built with **HTML, CSS and vanilla JavaScript** and deployed on Netlify.
+>
+> **[View live →](https://ayushpurohit.netlify.app)**
 
 <br/>
 
@@ -156,7 +136,7 @@ The best way to reach me is through the contact section of my portfolio:
 
 <div align="center">
 
-<a href="https://ayushpurohit.netlify.app/#contact"><img alt="Contact via portfolio" src="https://img.shields.io/badge/Contact_me-via_my_portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://ayushpurohit.netlify.app/#contact"><img alt="Contact me via my portfolio" src="https://img.shields.io/badge/Contact_me-via_my_portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 
 </div>
 
@@ -164,8 +144,6 @@ The best way to reach me is through the contact section of my portfolio:
 
 <div align="center">
 
-<i>"Building secure, stable, and scalable systems for real-world business environments."</i>
-
-<img width="100%" alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,100:8b5cf6&height=120&section=footer" />
+<sub>✨ Thanks for stopping by! ✨</sub>
 
 </div>
