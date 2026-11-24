@@ -1,12 +1,3 @@
-<!-- ============================================================
-  GitHub Profile README
-  Repo name must be EXACTLY your username:  ayushsysadmin/ayushsysadmin
-  (public repo) — GitHub shows this file on your profile page.
-  Only 3 images are used (Portfolio, Projects, Contact badges) and
-  all of them are links. Everything else is plain text, so nothing
-  else is clickable.
-============================================================ -->
-
 <div align="center">
 
 <h1>👋 Hi, I'm Ayush Purohit</h1>
@@ -15,7 +6,6 @@
 
 <p><i>Building secure, stable, and scalable systems for real-world business environments.</i></p>
 
-<a href="https://ayushpurohit.netlify.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-ayushpurohit.netlify.app-8B5CF6?style=for-the-badge&logo=netlify&logoColor=white" /></a>
 <a href="https://github.com/ayushsysadmin?tab=repositories"><img alt="Projects on GitHub" src="https://img.shields.io/badge/Projects-on_GitHub-EC4899?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
@@ -23,7 +13,7 @@
 <br/>
 
 > [!TIP]
-> 🟢 **Open to opportunities in:** System Administration · Server Infrastructure · Cloud Support
+> 🟢 **Open to opportunities in:** System Administration · Server Infrastructure · Cloud Administrator
 
 <br/>
 
@@ -35,7 +25,7 @@ I focus on building reliable, maintainable systems that keep real business opera
 - 🖥️ Day-to-day: system administration, network configuration and technical support
 - ☁️ Growing into: AWS cloud operations, containers and infrastructure automation
 - 🎯 Looking for: roles in **system administration, server infrastructure and cloud support**
-- 🌐 See my work, skills and projects on my **[portfolio website](https://ayushpurohit.netlify.app)**
+- 🌐 See my work, skills and projects on my **[Git Hub](https://github.com/ayushsysadmin?tab=repositories)**
 
 <br/>
 
@@ -120,18 +110,9 @@ I focus on building reliable, maintainable systems that keep real business opera
 
 <br/>
 
-## 🚀 Featured
-
-> ### 🌐 Personal Portfolio Website
-> A fast, fully responsive portfolio with dark / light mode, project showcase slider and certificate preview — built with **HTML, CSS and vanilla JavaScript** and deployed on Netlify.
->
-> **[View live →](https://ayushpurohit.netlify.app)**
-
-<br/>
-
 ## 🤝 Let's Connect
 
-I'm open to opportunities in **system administration, server infrastructure and cloud support**.
+I'm open to opportunities in **system administration, server infrastructure and cloud administrator**.
 The best way to reach me is through the contact section of my portfolio:
 
 <div align="center">
