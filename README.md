@@ -126,7 +126,8 @@ The best way to reach me is through the contact section of my portfolio:
 
 <div align="center">
 
-<sub>## 🌟 Thank You for Visiting My Profile!
+<sub>##
+🌟 Thank You for Visiting My Profile!
 
 I appreciate your time and interest in my work.
 
