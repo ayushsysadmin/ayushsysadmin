@@ -2,28 +2,25 @@
   GitHub Profile README
   Repo name must be EXACTLY your username:  ayushsysadmin/ayushsysadmin
   (public repo) — GitHub shows this file on your profile page.
-  Only 3 images are used (Portfolio, Projects, Contact badges) and
-  all of them are links. Everything else is plain text, so nothing
-  else is clickable.
+  No links and no images are used, so nothing in this README is clickable.
 ============================================================ -->
 
 <div align="center">
 
-<h1>👋 Hi, I'm Ayush Purohit</h1>
+<h1>Ayush Purohit</h1>
 
-<h3>🖥️ IT Infrastructure &amp; Cloud Support Engineer ☁️</h3>
+<h3>IT Infrastructure &amp; Cloud Support Engineer</h3>
+
+<p><b>SYSTEM ADMINISTRATION &nbsp;•&nbsp; NETWORKING &nbsp;•&nbsp; CLOUD</b></p>
 
 <p><i>Building secure, stable, and scalable systems for real-world business environments.</i></p>
-
-<a href="https://ayushpurohit.netlify.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-ayushpurohit.netlify.app-8B5CF6?style=for-the-badge&logo=netlify&logoColor=white" /></a>
-<a href="https://github.com/ayushsysadmin?tab=repositories"><img alt="Projects on GitHub" src="https://img.shields.io/badge/Projects-on_GitHub-EC4899?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
 <br/>
 
 > [!TIP]
-> 🟢 **Open to opportunities in:** System Administration · Server Infrastructure · Cloud Administrator
+> 🟢 **Open to opportunities in:** System Administration · Server Infrastructure · Cloud Support
 
 <br/>
 
@@ -35,7 +32,7 @@ I focus on building reliable, maintainable systems that keep real business opera
 - 🖥️ Day-to-day: system administration, network configuration and technical support
 - ☁️ Growing into: AWS cloud operations, containers and infrastructure automation
 - 🎯 Looking for: roles in **system administration, server infrastructure and cloud support**
-- 🌐 See my work, skills and projects on my **[portfolio website](https://ayushpurohit.netlify.app)**
+- 📄 My resume has my full experience and contact details
 
 <br/>
 
@@ -120,25 +117,10 @@ I focus on building reliable, maintainable systems that keep real business opera
 
 <br/>
 
-## 🚀 Featured
-
-> ### 🌐 Personal Portfolio Website
-> A fast, fully responsive portfolio with dark / light mode, project showcase slider and certificate preview — built with **HTML, CSS and vanilla JavaScript** and deployed on Netlify.
->
-> **[View live →](https://ayushpurohit.netlify.app)**
-
-<br/>
-
 ## 🤝 Let's Connect
 
 I'm open to opportunities in **system administration, server infrastructure and cloud support**.
-The best way to reach me is through the contact section of my portfolio:
-
-<div align="center">
-
-<a href="https://ayushpurohit.netlify.app/#contact"><img alt="Contact me via my portfolio" src="https://img.shields.io/badge/Contact_me-via_my_portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-
-</div>
+Contact details are available on my resume.
 
 <br/>
 
