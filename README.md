@@ -23,7 +23,7 @@
 <br/>
 
 > [!TIP]
-> 🟢 **Open to opportunities in:** System Administration · Server Infrastructure · Cloud Support
+> 🟢 **Open to opportunities in:** System Administration · Server Infrastructure · Cloud Administrator
 
 <br/>
 
