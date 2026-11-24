@@ -3,7 +3,7 @@
 <h1>👋 Hi, I'm Ayush Purohit</h1>
 
 <h3>🖥️ IT Infrastructure &amp; Cloud Support Engineer ☁️</h3>
-<img alt="Networking, Cloud, Linux and Windows Server Administration" src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&height=40&lines=Networking;Cloud;Linux;Windows+Server+Administration" />
+<img alt="Networking, Cloud, Linux and Windows Server Administration" src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3500&pause=1500&color=8B5CF6&center=true&vCenter=true&width=720&height=40&lines=Networking+%7C+Cloud+%7C+Linux+%7C+Windows+Server+Administration" />
 
 <p><i>Building secure, stable, and scalable systems for real-world business environments.</i></p>
 
