@@ -4,7 +4,7 @@
 
 <h3>🖥️ IT Infrastructure &amp; Cloud Support Engineer ☁️</h3>
 
-<p><b>SYSTEM ADMINISTRATION &nbsp;•&nbsp; NETWORKING &nbsp;•&nbsp; CLOUD</b></p>
+<img width="100%" alt="Ayush Purohit — IT Infrastructure & Cloud Support Engineer" src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:ec4899&height=230&section=header&text=Ayush%20Purohit&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=IT%20Infrastructure%20%26%20Cloud%20Support%20Engineer&descAlignY=60&descSize=20" />
 
 <p><i>Building secure, stable, and scalable systems for real-world business environments.</i></p>
 
