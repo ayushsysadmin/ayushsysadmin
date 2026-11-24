@@ -117,7 +117,7 @@ The best way to reach me is through the contact section of my portfolio:
 
 <div align="center">
 
-<a href="mailto:ayushpurohit1789@gmail.com?subject=Opportunity%20for%20Ayush%20Purohit&amp;body=Hello%20Ayush%2C%0A%0AI%20came%20across%20your%20GitHub%20profile%20and%20would%20like%20to%20connect%20regarding%20an%20opportunity.%0A%0ARegards%2C"><img alt="Contact me via Email: ayushpurohit1789@gmail.com" src="https://img.shields.io/badge/Contact_me-ayushpurohit1789%40gmail.com-EC4899?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=ayushpurohit1789%40gmail.com&amp;su=Opportunity%20for%20Ayush%20Purohit&amp;body=Hello%20Ayush%2C%0A%0AI%20came%20across%20your%20GitHub%20profile%20and%20would%20like%20to%20connect%20regarding%20an%20opportunity.%0A%0ARegards%2C"><img alt="Contact me via Email" src="https://img.shields.io/badge/Contact_me-via_Email-EC4899?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
