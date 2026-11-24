@@ -4,6 +4,8 @@
 
 <h3>🖥️ IT Infrastructure &amp; Cloud Support Engineer ☁️</h3>
 
+<p><b>SYSTEM ADMINISTRATION &nbsp;•&nbsp; NETWORKING &nbsp;•&nbsp; CLOUD</b></p>
+
 <p><i>Building secure, stable, and scalable systems for real-world business environments.</i></p>
 
 <a href="https://github.com/ayushsysadmin?tab=repositories"><img alt="Projects on GitHub" src="https://img.shields.io/badge/Projects-on_GitHub-EC4899?style=for-the-badge&logo=github&logoColor=white" /></a>
