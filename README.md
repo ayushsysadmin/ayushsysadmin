@@ -117,11 +117,9 @@ The best way to reach me is through the contact section of my portfolio:
 
 <div align="center">
 
-<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=ayushpurohit1789@gmail.com"><img alt="Contact vi a email " src="https://img.shields.io/badge/Projects-on_GitHub-EC4899?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://ayushpurohit.netlify.app/mail.html"><img alt="Contact me via Email" src="https://img.shields.io/badge/Contact_me-via_Email-EC4899?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<br/>
-
-<div align="center">
+</div> <br/> <div align="center">
 
 <sub>✨ Thanks for stopping by! ✨</sub>
 
