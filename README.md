@@ -132,6 +132,6 @@ I appreciate your time and interest in my work.
 
 Always exploring new technologies, building solutions, and improving my skills in IT Infrastructure, Cloud Computing, and Cybersecurity.
 
-**Let's connect and grow together🤝</sub>
+Let's connect and grow together🤝</sub>
 
 </div>
