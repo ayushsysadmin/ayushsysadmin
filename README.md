@@ -3,8 +3,7 @@
 <h1>👋 Hi, I'm Ayush Purohit</h1>
 
 <h3>🖥️ IT Infrastructure &amp; Cloud Support Engineer ☁️</h3>
-
-<img width="100%" alt="Ayush Purohit — IT Infrastructure & Cloud Support Engineer" src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:ec4899&height=230&section=header&text=Ayush%20Purohit&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=IT%20Infrastructure%20%26%20Cloud%20Support%20Engineer&descAlignY=60&descSize=20" />
+<img alt="Networking, Cloud, Linux and Windows Server Administration" src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&height=40&lines=Networking;Cloud;Linux;Windows+Server+Administration" />
 
 <p><i>Building secure, stable, and scalable systems for real-world business environments.</i></p>
 
